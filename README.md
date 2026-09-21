@@ -29,5 +29,6 @@ Computer and Information Sciences graduate double-majored in Data Science and Ne
 ---
 
 ### Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viet-ha-ly/)
+
+or you can talk to [my Digital Twin](https://twin-828z.onrender.com/)
