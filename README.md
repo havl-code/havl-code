@@ -18,7 +18,7 @@ Computer and Information Sciences graduate double-majored in Data Science and Ne
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=havl-code&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
