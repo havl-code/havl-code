@@ -9,6 +9,7 @@ Computer and Information Sciences graduate double-majored in Data Science and Ne
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
 ![R](https://img.shields.io/badge/R-000000?style=flat-square&logo=r&logoColor=white)
