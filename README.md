@@ -18,3 +18,5 @@ Computer and Information Sciences graduate double-majored in Data Science and Ne
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
 
 ---
+
+[**→ View my project portfolio**](https://havl-code.github.io/)
